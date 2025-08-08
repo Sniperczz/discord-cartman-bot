@@ -1,15 +1,5 @@
 {
-  "name": "discord-cartman-bot",
-  "version": "1.0.0",
-  "main": "index.js",
-  "type": "module",
-  "engines": {
-    "node": ">=18"
-  },
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "discord.js": "^14.13.0",
-  }
+  "name":"my-bot",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "discord.js": "^14.0.0" }
 }
